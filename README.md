@@ -1,6 +1,8 @@
 - 👋 정하윤입니다.
-- 👀 I’m interested in managing an organization such as a startup, learning few languages related to Javascript ... 
-- 🌱 I’m currently learning 'React, Realm, Next.js' 
+- 👀 I’m interested in managing an organization such as a startup, 
+- learning few languages related to Javascript ... 
+- 
+- 🌱 I’m currently learning 'React, RN, Redux, GraphQL ' 
 - 
 - 📫 How to reach me : ceo@hinterofficial.com
 
