@@ -2,7 +2,8 @@
 - 👀 I’m interested in managing an organization such as a startup, 
 - learning few languages related to Javascript ... 
 - 
-- 🌱 I’m currently learning 'React, RN, Redux, GraphQL ' 
+- 🌱 RN, NextJS, || NestJS, GraphQL, typeORM, MySQL,
+- 대환장 조합을 환영합니다.
 - 
 - 📫 How to reach me : ceo@hinterofficial.com
 
