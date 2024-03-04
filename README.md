@@ -5,7 +5,7 @@
 - 🌱 RN, NextJS, || NestJS, GraphQL, typeORM, MySQL,
 - 대환장 조합을 환영합니다.
 - 
-- 📫 How to reach me : ceo@hinterofficial.com
+- 📫 How to reach me : hayun.gram@gmail.com
 
 <!---
 hayun-chung/hayun-chung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
